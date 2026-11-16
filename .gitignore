@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Quartus / FPGA build output
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+*.summary
+*.pin
+*.pof
+*.sof
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Claude / AI tooling
+CLAUDE.md
+.claude/
